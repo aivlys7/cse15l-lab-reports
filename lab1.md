@@ -9,5 +9,5 @@
 ![Image](cd_directory.png)
 
 <p>The working directory is /home</p>
-<p>I got the output which is changing the directory from </p>
-
+<p>I got the output which is changing the directory to /home/lecture1 because the function of the command cd is change directory, and the argument as directory shows the targeting directory. </p>
+<p>It is not an error because it successfully change the working directory.</p>
