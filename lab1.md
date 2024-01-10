@@ -8,4 +8,6 @@
 # cd directory
 ![Image](cd_directory.png)
 
-<p></p>
+<p>The working directory is /home</p>
+<p>I got the output which is changing the directory from </p>
+
