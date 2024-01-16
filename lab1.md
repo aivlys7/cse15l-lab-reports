@@ -1,3 +1,5 @@
+**Yichen Cai, A17349566**
+
 # cd no arguments
 ![Image](cd_no_argument.png)
 
@@ -37,3 +39,24 @@
 ![Image](ls_file.png)
 
 <p>The working directory is /home/lecture1</p>
+<p>I got the name of the file that is on the command line.</p>
+<p>It is not an error in my opinion, but I think it is not a good use of the command. Since there is no error messages and it runs properly, however, it does not provide me useful outputs, but only the name of the file.</p>
+
+# cat no argument
+![Image](cat_no_argument.png)
+
+<p>The working directory is /home/lecture1</p>
+<p>I got nothing but all blank. I cannot enter any other commands as well.</p>
+<p>This is an error because the terminal stucks after I run the command without an argument. There is no output and the terminal runs forever with the blank. </p>
+
+# cat directory
+![Image](cat_directory.png)
+<p>The working directory is /home/lecture1</p>
+<p>I got a line said that my input directory is a directory.</p>
+<p>It is not an error because it can runs well, however, it is not a good use too, since the command line does not provide useful information.</p>
+
+# cat file
+![Image](cat_file.png)
+<p>The working directory is /home/lecture1</p>
+<p>I got the exact context of the file that I command.</p>
+<p>It is not an error since the command cat's purpose is to show the lines of the target file. And this line of command and output works properly.</p>
