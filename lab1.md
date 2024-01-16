@@ -51,12 +51,14 @@
 
 # cat directory
 ![Image](cat_directory.png)
+
 <p>The working directory is /home/lecture1</p>
 <p>I got a line said that my input directory is a directory.</p>
 <p>It is not an error because it can runs well, however, it is not a good use too, since the command line does not provide useful information.</p>
 
 # cat file
 ![Image](cat_file.png)
+
 <p>The working directory is /home/lecture1</p>
 <p>I got the exact context of the file that I command.</p>
 <p>It is not an error since the command cat's purpose is to show the lines of the target file. And this line of command and output works properly.</p>
