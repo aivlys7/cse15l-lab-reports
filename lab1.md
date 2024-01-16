@@ -25,3 +25,15 @@
 <p>The working directory is /home/lecture1</p>
 <p>I got a list of files and directory that is under the working directory, which is lecture1.</p>
 <p>It is not an error because the command ls is used for getting a list of the directory. Since there is no argument, ls provides the list of file under current working directory.</p>
+
+# ls directory
+![Image](ls_directory.png)
+
+<p>The working directory is /home/lecture1</p>
+<p>I got a list of files that is under the directory of my command, which is messages/.</p>
+<p>It is not an error because the command run successfully, showing the list of files under the directory that I type for command.</p>
+
+# ls file
+![Image](ls_file.png)
+
+<p>The working directory is /home/lecture1</p>
