@@ -1,2 +1,4 @@
 **Part 1**
-Here is my code for 
+<p>Here is my code for the Chat Server.</p>
+![Image](Code.jpg)
+
