@@ -13,4 +13,10 @@
 <p>Finally, prints the combined output onto the server and store it into the text file.</p>
 
 ![Image](Server_2.jpg)
-<p>For this line, I add /add-message?s=|m%20fine%20th&user=Sylvia to the end of the url. The same method is used, and the same logic is followed.</p>
+<p>For this line, I add /add-message?s=Im%20fine%20thx&user=Sylvia to the end of the url. The same method is used, and the same logic is followed.</p>
+<p>In this case, the method will seperate the command line into two strings, "Im fine thx" is the first one as message and "Sylvia" as the user name.</p>
+<p> Then, the combined output is "Sylvia: Im fine thx". This line is showed on the server as well as stored in the text file.</p>
+
+**Part 2**
+
+![Image]
