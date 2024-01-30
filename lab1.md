@@ -4,8 +4,8 @@
 
 ![Image](cd_no_argument_update.png)
 
-<p>The working directory is /home ==/lecture1/==</p>
-<p>I got the output because the function of the command cd is to change directory. Since I am already in the directory of /home, there is nothing changed although there is no argument.</p>
+<p>The working directory is /home/lecture1</p>
+<p>I got the output od backing to the /home directory because the function of the command cd is to change directory. When there is no argument, the default action of the command is to go back to the /home directory.</p>
 <p>It is not an error because there is no error message and the output shows that the command of cd functions rightly.</p>
 
 `cd` **directory**
@@ -53,8 +53,8 @@
 ![Image](cat_no_argument_update.png)
 
 <p>The working directory is /home/lecture1</p>
-<p>I got nothing but all blank. I cannot enter any other commands as well.</p>
-<p>This is an error because the terminal stucks after I run the command without an argument. There is no output and the terminal runs forever with the blank. </p>
+<p>I got nothing but all blank. When I type something to the blank and press enter, the terminal will simply repeat the line that I typed. Aany other commands are not function well as well.</p>
+<p>This is an error because the terminal stucks after I run the command without an argument. There is no output and the terminal runs forever with the blank. And I have to use ctrl C to force quit the error blank.</p>
 
 `cat` **directory**
 
@@ -62,7 +62,7 @@
 
 <p>The working directory is /home/lecture1</p>
 <p>I got a line said that my input directory is a directory.</p>
-<p>It is not an error because it can runs well, however, it is not a good use too, since the command line does not provide useful information.</p>
+<p>It is an error because it shows that the command cat cannot be used toward a directory, since the command line does not work its function.</p>
 
 `cat` **file**
 
