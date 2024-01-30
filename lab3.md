@@ -20,4 +20,4 @@
 **Part 2**
 
 ![Image](Public_keys.png)
-<p>The picture is the path of public keys, show by the command ls.</p>
+<p>The picture is showing the path of public keys, it also shows the file and directories under it by the command ls.</p>
