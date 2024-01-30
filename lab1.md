@@ -2,7 +2,7 @@
 
 `cd` **no arguments**
 
-![Image](cd_no_argument.png)
+![Image](cd_no_argument_update.png)
 
 <p>The working directory is /home</p>
 <p>I got the output because the function of the command cd is to change directory. Since I am already in the directory of /home, there is nothing changed although there is no argument.</p>
@@ -50,7 +50,7 @@
 
 `cat` **no argument**
 
-![Image](cat_no_argument.png)
+![Image](cat_no_argument_update.png)
 
 <p>The working directory is /home/lecture1</p>
 <p>I got nothing but all blank. I cannot enter any other commands as well.</p>
