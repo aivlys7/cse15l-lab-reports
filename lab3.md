@@ -24,3 +24,6 @@
 
 ![Image](Without_key.png)
 <p>The screenshot shows the way that I do not need to type in my password to log into my ieng6 accound. After I type "ssh yic091@ieng6.ucsd.edu" and press enter, the log in process happens without the need of entering password.</p>
+
+**Part 3**
+<p>I learnt about the things about the command ssh, mkdir, etc. Also, I gained more idea about establishing a server by myself and also the way to log into the remote accound of ieng6.</p>
