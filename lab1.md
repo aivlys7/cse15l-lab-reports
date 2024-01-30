@@ -1,6 +1,6 @@
 **Yichen Cai, A17349566**
 
-# cd no arguments
+<cd> no arguments
 ![Image](cd_no_argument.png)
 
 <p>The working directory is /home</p>
