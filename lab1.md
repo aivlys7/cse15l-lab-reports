@@ -4,7 +4,7 @@
 
 ![Image](cd_no_argument_update.png)
 
-The working directory is ` /home/lecture1 `.
+The working directory is `/home/lecture1`.
 I got the output od backing to the `/home` directory because the function of the command cd is to change directory. When there is no argument, the default action of the command is to go back to the `/home` directory.
 It is not an error because there is no error message and the output shows that the command of cd functions rightly.
 
@@ -12,7 +12,7 @@ It is not an error because there is no error message and the output shows that t
 
 ![Image](cd_directory.png)
 
-The working directory is `/home`
+The working directory is `/home`.
 I got the output which is changing the directory to `/home/lecture1` because the function of the command cd is change directory, and the argument as directory shows the targeting directory. 
 It is not an error because it successfully change the working directory.
 
