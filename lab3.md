@@ -1,7 +1,7 @@
 **Part 1**
 <p>Here is my code for the Chat Server.</p>
 
-![Image](Code.jpg)
+![Image](Code.png)
 
 <p>I tried several times to see the function of the Chat Server.</p>
 
@@ -19,4 +19,5 @@
 
 **Part 2**
 
-![Image]
+![Image](Public_keys.png)
+<p>The picture is the path of public keys, show by the command ls.</p>
