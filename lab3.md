@@ -21,3 +21,6 @@
 
 ![Image](Public_keys.png)
 <p>The picture is showing the path of public keys, it also shows the file and directories under it by the command ls.</p>
+
+![Image](Without_key.png)
+<p>The screenshot shows the way that I do not need to type in my password to log into my ieng6 accound. After I type "ssh yic091@ieng6.ucsd.edu" and press enter, the log in process happens without the need of entering password.</p>
