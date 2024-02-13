@@ -31,6 +31,8 @@ The method I chose is `reservesInPlace`.
 
 <p>The symptom:</p>
 
+![Image](
+
 
 
 <p>The bug before and after the fix:</p>
