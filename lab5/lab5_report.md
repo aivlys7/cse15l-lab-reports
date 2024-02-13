@@ -31,7 +31,8 @@ The method I chose is `reservesInPlace`.
 
 <p>The symptom:</p>
 
-![Image](
+![Image](Symptom.png)
+The result of the JUnit tests indicate that one of the tests is failed, and it is the first test that is a failure.
 
 
 
