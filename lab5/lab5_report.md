@@ -58,3 +58,59 @@ static void reverseInPlace(int[] arr) {
 <p>The fix creates a temp array, so that it can preserve the data in the orginal array from earsing or replacing by other data.</p>
 
 
+# Part 2
+`grep` command:
+
+<p> </p>
+1) `-r` or `-recursive`: it search for a pattern recursively in a directory.
+
+```java
+grep -r "functionName" ./technical
+```
+This command line search for the files in the technical directory with the string "functionname".
+
+```java
+grep -r "^#include" ./technical
+```
+This command line search for the lines in the technical directory, which are starting from "#include".
+
+<p> </p>
+2) `-i` or `--ignore-case`
+
+```java
+grep -i "Main" ./technical/main.c
+```
+This command line search for the string "Main" in the main.c under techincal directory, ignoring the case.
+
+```java
+grep -ir "error" ./technical/logs/
+```
+This command line search for the string "error" under the logs directory under technical directory, ignoring the case.
+
+<p> </p>
+3) `-l` or `--files-with-matches`
+
+```java
+grep -l "config" ./technical/configs/*
+```
+This command line search for the string "config" and list only the name of the files.
+
+```java
+grep -lr "TODO" ./technical/src/
+```
+This command line search for the string "TODO" under technical/src/ directory and list the name of the files.
+
+<p> </p>
+4) `-n` or `--line-number`
+
+```java
+grep -n "return" ./technical/module.c
+```
+This command line search for the word "return" under technical/module.c directory prefixes each matching line with its line number in the file.
+
+```java
+grep -rn "FIXME" ./technical/
+```
+This command line search for the word "FIXME" under technical directory, and print each match with its line number.
+
+
